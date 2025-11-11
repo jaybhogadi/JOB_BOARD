@@ -3,7 +3,8 @@ name = "job-board"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "JAYA",email = "jayakrishnasri13@gmail.com"}
+    {name = "JAYA",email = "jayakrishnasri13@gmail.com"},
+    {name = "prashanth",email = "prashanthrouthu25@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.10"
