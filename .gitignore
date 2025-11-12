@@ -1,0 +1,45 @@
+# --- Python / FastAPI project ignores ---
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (Poetry, venv, etc.)
+.venv/
+venv/
+env/
+ENV/
+
+# Poetry and pyenv
+.poetry/
+.python-version
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test / coverage / build artifacts
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# Pytest cache
+.pytest_cache/
+
+# Mypy / Pylint / Ruff caches
+.mypy_cache/
+.ruff_cache/
+
+# Uvicorn / FastAPI run files
+*.sqlite3
+*.db
